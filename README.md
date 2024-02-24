@@ -89,8 +89,7 @@ I'm well-versed in:
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=sinekaRamu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&repo=express-biblio-api)](https://github.com/sinekaRamu/express-biblio-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&repo=drello-app)](https://github.com/sinekaRamu/drello-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&repo=myImdb-api)](https://github.com/sinekaRamu/myImdb-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&repo=my-imdb)](https://github.com/sinekaRamu/my-imdb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&theme=dark&repo=express-biblio-api)](https://github.com/sinekaRamu/express-biblio-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&theme=dark&repo=drello-app)](https://github.com/sinekaRamu/drello-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&theme=dark&repo=myImdb-api)](https://github.com/sinekaRamu/myImdb-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&theme=dark&repo=my-imdb)](https://github.com/sinekaRamu/my-imdb)
