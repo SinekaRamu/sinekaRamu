@@ -75,9 +75,9 @@ I'm well-versed in:
 
 ## 📊 GitHub Analytics
 
-![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=sinekaRamu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=sinekaRamu&theme=dark&show_icons=true&hide_border=false&include_all_commits=true)
 
-![GitHub Streaks Stats](https://github-readme-streak-stats.herokuapp.com/?user=sinekaRamu&theme=dark&hide_border=false)
+<!--[GitHub Streaks Stats](https://github-readme-streak-stats.herokuapp.com/?user=sinekaRamu&theme=dark&hide_border=false)-->
 
 ![GitHub Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=sinekaRamu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -88,3 +88,5 @@ I'm well-versed in:
 ## 🔝 Top Contributed Repo
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=sinekaRamu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&repo=github-readme-stats)](https://github.com/sinekaRamu/express-biblio-app)
