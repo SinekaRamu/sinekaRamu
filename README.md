@@ -91,5 +91,5 @@ I'm well-versed in:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&theme=dark&repo=express-biblio-api)](https://github.com/sinekaRamu/express-biblio-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&theme=dark&repo=drello-app)](https://github.com/sinekaRamu/drello-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&theme=dark&repo=myImdb-api)](https://github.com/sinekaRamu/myImdb-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&theme=dark&repo=todo-app-ts)](https://github.com/sinekaRamu/todo-app-ts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinekaRamu&theme=dark&repo=my-imdb)](https://github.com/sinekaRamu/my-imdb)
